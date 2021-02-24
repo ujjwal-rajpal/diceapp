@@ -2,7 +2,7 @@
  * constructor function to sum  
  *
  * created by ujjwal
- * created on 24th feb 2020
+ * created on 13th feb 2020
  *
 */
 function Diceroll(){
@@ -18,7 +18,7 @@ function Diceroll(){
  * purpose : function to roll dice and generate random number between 1 and 6
  *
  * created by ujjwal
- * created on 24th feb 2020
+ * created on 13th feb 2020
  *
 */
 function randomIntFromInterval(min, max) { // min and max included 
@@ -29,7 +29,7 @@ function randomIntFromInterval(min, max) { // min and max included
  * purpose : called when button is clicked
  *
  * created by: Ujjwal
- * created on: 24th feb 2020
+ * created on: 13th feb 2020
 */
 function playme(){
 //create object of Diceroll function
